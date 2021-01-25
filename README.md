@@ -1,1 +1,3 @@
 # wine_predictor
+
+We are gunna see if we can figure out what makes a wine good by vivino standards - there must be something that is present in the wine region or location that lends itself to be better than others.....
