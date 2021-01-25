@@ -1,1 +1,1 @@
-# wine_predictor
+# CIFAR-100
